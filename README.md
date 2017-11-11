@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(11/10/17)
 
 ## Student Name:  
-(First and Last Name)
+Jorge Ramos
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+creating and implementing the tools of git
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. What Version cotrol is and what it does
+2. The basics of git
+3. How to create a github account
 
